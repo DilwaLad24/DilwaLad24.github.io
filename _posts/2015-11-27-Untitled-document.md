@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: First Post/Lesson
 layout: post
 author: dhilan.nathwani
 permalink: /untitled-document/
@@ -9,4 +9,5 @@ published: true
 **First Post Test done by Dilwa. **
 
 **Mr Keen likes hockey because he can hit people.**
+This lesson went very well. I was glad I was not last to complete the task. However I could have done it quicker.
 
