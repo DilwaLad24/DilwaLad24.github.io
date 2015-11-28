@@ -1,7 +1,7 @@
 ---
 title: First Lesson Review
 layout: post
-author: Dhilan.Nathwani
+author: Dilwa
 permalink: /first-lesson-review/
 source-id: 1QnQTVRtC1BVBxnTSZwfsWIwM_XAJjEA2SeYY0wLl8TE
 published: true
