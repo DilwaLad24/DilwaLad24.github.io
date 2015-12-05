@@ -1,5 +1,5 @@
 ---
-title: First Post/Lesson
+title: First Post
 layout: post
 author: dhilan.nathwani
 permalink: /untitled-document/
