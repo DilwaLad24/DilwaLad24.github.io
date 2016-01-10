@@ -6,7 +6,7 @@ permalink: /2nd-lesson-review/
 source-id: 1j8YiM375PTddJHasQSI74f1w7VXJXV8wf3Bd8KZ0su0
 published: true
 ---
-**First Lesson Review**
+**Second Lesson Review**
 
 **Summary: **In this lesson we aimed to stop all the errors in our websites and I think we succeeded. We also made our websites more individual by adding colour to it.
 
