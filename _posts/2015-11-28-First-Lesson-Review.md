@@ -8,7 +8,7 @@ published: true
 ---
 **First Lesson Review**
 
-Positive Points: This lesson was very exciting. Making my own website is something me or my dad had ever done. I was very happy with my speed of progress & my finished product. Also Mr Keen was in a good, kind mood. This is not something you see very often so I have treasured the memory. 
+Positive Points: This lesson was very exciting. Making my own website is something my dad nor I had ever done. I was very happy with my speed of progress & my finished product. Also Mr Keen was in a good, kind mood. This is not something you see very often so I have treasured the memory. 
 
 Negative Points: In this lesson I could have improved. I did not know what was next before he had explained it. This needs to be improved if I want to be top of the class.
 
