@@ -25,8 +25,8 @@ published: true
 * **Computer Worm** is a malware system to hack into computers.
 
 * **Computer trojan horse** is a download which looks likes it is regular and interesting but it makes you download a virus.
+ 
+* **Computer Botnet** is lots of computers connected by the Internet all working together to complete a certain task.
 
-* **Computer Botnet** is lots of computers connected by the Internet all working together to complete a certain task.** **
-
- ** **
+ 
 
