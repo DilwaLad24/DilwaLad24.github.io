@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-      <td>Using a FUSE computer</td>
+      <td>Using a FUSE computer </td>
     <td>Date:</td>
     <td>08/09/16</td>
   </tr>
