@@ -15,10 +15,14 @@
 
 html { 
   font-size: 100%;
-}
-body {
 	  font { 18px/1.4 $helvetica {
 	color: #000000 {
+		
+		}
+Body {
+	background color; #813772
+	background image; font; 18px/1.4 $helvetica
+	
 }
 
 .container {
@@ -59,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $red;
 }
 
 p {
@@ -115,7 +119,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $red;
 }
 
 // Specify the color of the selection
@@ -154,7 +158,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $black;
 
   @include mobile {
     text-align: center;
@@ -190,7 +194,7 @@ img {
 }
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $red;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
