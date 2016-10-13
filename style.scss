@@ -15,14 +15,15 @@
 
 html { 
   font-size: 100%;
-	  font { 18px/1.4 $helvetica {
-	color: #000000 {
+	  font 18px/1.4:$helvetica 
+	color: #000000 
 		
-		}
+}
 Body {
-	background color; { #813772
-	background image; { url http://images.all-free-download.com/images/graphiclarge/designed_abstract_background_vector_art_148763.jpg
-	font; 18px/1.4 $helvetica
+     background-image: url("http://zellox.com/wp-content/uploads/2016/04/cool-website-backgrounds-%E2%80%AB1%E2%80%AC-300x200.jpg");
+     background-repeat: repeat;
+     background-attachment: fixed;
+     background-position
 	
 }
 
@@ -291,5 +292,3 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-}
-}
