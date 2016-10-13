@@ -119,16 +119,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $green;
+  color: $lightGray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $green;
+  color: $darkGray;
   background: $red;
 }
 ::selection {
-  color: $yellow;
+  color: $blue;
   background: $red;
 }
 
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $green;
+  color: $red;
   font-size: 16px;
 
   @include mobile {
@@ -227,7 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $yellow;
+    color: $black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -245,7 +245,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $yellow;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -256,9 +256,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $yellow;
+    border-left: 2px solid $black;
     padding: 0.1em 1em;
-    color: $yellow;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
