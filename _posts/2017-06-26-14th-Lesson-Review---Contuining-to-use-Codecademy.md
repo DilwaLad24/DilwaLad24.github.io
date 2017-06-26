@@ -1,5 +1,5 @@
 ---
-title: 14th Lesson Review - Contuining to use Codecademy
+title: 14th Lesson Review - Continuing to use Codecademy
 layout: post
 author: dhilan.nathwani
 permalink: /14th-lesson-review---contuining-to-use-codecademy/
