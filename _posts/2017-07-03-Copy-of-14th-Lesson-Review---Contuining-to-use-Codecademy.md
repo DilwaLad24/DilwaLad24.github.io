@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Using Codecademy</td>
     <td>Date</td>
-    <td>18/5/17</td>
+    <td>11/5/17</td>
   </tr>
 </table>
 
@@ -57,7 +57,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will learn to use other resources before I use the teacher and I will keep on working quickly and efficiently. This was the last IT lesson this half term because next week is Activites week and the week after that is half term. I am proud of my progress this half term and I will work even harder next term.</td>
+    <td>I will learn to use other resources before I use the teacher and I will keep on working quickly and efficiently. This was the last IT lesson this half term because next week I have a cricket match, then it is Activites week and the week after that is half term. I am proud of my progress this half term and I will work even harder next term.</td>
   </tr>
 </table>
 
