@@ -1,8 +1,8 @@
 ---
-title: Copy of 14th Lesson Review - Contuining to use Codecademy
+title: 16th Lesson Review - Contuining to use Codecademy
 layout: post
 author: dhilan.nathwani
-permalink: /16th-lesson-review---contuining-to-use-codecademy/
+permalink: /copy-of-14th-lesson-review---contuining-to-use-codecademy/
 source-id: 1Jjt3nCHZTU3YcXMnnotjKiYdSBkR9pfovtqJCo3fviM
 published: true
 ---
