@@ -1,5 +1,5 @@
 ---
-title: Continuing with Sheets
+title: 4th Lesson Review - Continuing with Sheets
 layout: post
 author: dhilan.nathwani
 permalink: /continuing-with-sheets/
@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td> Continuing with Sheets</td>
     <td>Date:   </td>
-    <td> 9/10/17</td>
+    <td> 2/10/17</td>
   </tr>
 </table>
 
