@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td> Continuing with Sheets</td>
+    <td> 4th Lesson Review: Continuing with Sheets</td>
     <td>Date:   </td>
     <td> 2/10/17</td>
   </tr>
